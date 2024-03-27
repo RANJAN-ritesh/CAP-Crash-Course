@@ -1,0 +1,10 @@
+large screen => 1000px - 1900px
+
+med screen => 600px - 1000px
+
+small screen => 300px - 600px
+
+
+- pseudo-class =>  : 
+
+- pseudo-elements => ::
